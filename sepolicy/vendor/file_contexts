@@ -7,7 +7,7 @@
 /vendor/bin/hw/android\.hardware\.drm@1\.1-service\.widevine u:object_r:hal_drm_widevine_exec:s0
 
 # Hals
-/vendor/bin/hw/android\.hardware\.power@1\.3-service.crosshatch-libperfmgr                          u:object_r:hal_power_default_exec:s0
+/vendor/bin/hw/android\.hardware\.power@1\.3-service.X00P-libperfmgr                          u:object_r:hal_power_default_exec:s0
 
 # Input
 /vendor/usr/keylayout(/.*)?                     u:object_r:input_file:s0
