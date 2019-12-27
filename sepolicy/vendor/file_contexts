@@ -8,6 +8,7 @@
 
 # Hals
 /vendor/bin/hw/android\.hardware\.power@1\.3-service.X00P-libperfmgr                          u:object_r:hal_power_default_exec:s0
+/(vendor|system/vendor)/bin/hw/android\.hardware\.light@2\.0-service\.asus_X00P                           u:object_r:hal_light_default_exec:s0
 
 # Input
 /vendor/usr/keylayout(/.*)?                     u:object_r:input_file:s0
