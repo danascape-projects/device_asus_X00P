@@ -1,0 +1,5 @@
+# EAS PowerHal (Debugfs)
+genfscon debugfs /mnh_sm                              u:object_r:debugfs_easel:s0
+genfscon debugfs /rpm_stats                           u:object_r:debugfs_rpm:s0
+genfscon debugfs /rpm_master_stats                    u:object_r:debugfs_rpm:s0
+genfscon debugfs /system_stats                        u:object_r:debugfs_rpm:s0
